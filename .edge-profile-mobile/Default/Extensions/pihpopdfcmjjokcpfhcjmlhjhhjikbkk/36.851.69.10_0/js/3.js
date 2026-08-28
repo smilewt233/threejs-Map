@@ -1,1 +1,0 @@
-!function(){let t=document.getSelection().toString().trim();t&&chrome.runtime.sendMessage({type:"dksstgkj",data:{num:2,word:t}})}();

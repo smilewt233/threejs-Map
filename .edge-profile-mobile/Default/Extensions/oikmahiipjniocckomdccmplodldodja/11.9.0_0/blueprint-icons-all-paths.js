@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbrowser_extension=globalThis.webpackChunkbrowser_extension||[]).push([[860],{14650:(e,n,s)=>{s.d(n,{getIconPaths:()=>b});var o=s(55624),t=s(32514),r=s(50319),a=s(59853);function b(e,n){const s=(0,o.fL)(e);return n===a.l.STANDARD?t[s]:r[s]}}}]);

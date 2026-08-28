@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbrowser_extension=globalThis.webpackChunkbrowser_extension||[]).push([[231],{13918:(e,s,n)=>{n.r(s),n.d(s,{splitPathsBySizeLoader:()=>i});var r=n(55624),t=n(59853);const i=async(e,s)=>{const i=(0,r.fL)(e);let o;return o=s===t.l.STANDARD?await Promise.resolve().then(n.bind(n,32514)):await Promise.resolve().then(n.bind(n,50319)),o[i]}}}]);

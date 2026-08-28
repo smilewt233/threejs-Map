@@ -1,1 +1,0 @@
-moduleFor("@ember/-internals/utils Trackable Object",class extends AbstractTestCase{["@test classes"](e){class s{constructor(){setEmberArray(this)}}let t=new s;e.equal(isEmberArray(t),true)}});
