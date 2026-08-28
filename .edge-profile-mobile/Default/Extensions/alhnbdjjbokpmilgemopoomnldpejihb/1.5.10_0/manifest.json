@@ -1,0 +1,21 @@
+{
+   "background": {
+      "service_worker": "background/index.js"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "content/index.js" ],
+      "matches": [ "*://github.com/*" ]
+   } ],
+   "description": "国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！’",
+   "icons": {
+      "128": "assets/icons/icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgyEj5mmGFvNGJ3PMFi8kQs8pm1v0RNrvAdj2M9jLGsbfDRYzjVG1iQespm8k6eusSGT0SGxiYJU/QAEOQP6K4Ft3ISqdNm+r6ZdRVlN3guijeZmbZ0hgUaVQX4eKXqfnq+bPZIzozgIOWECxOrhRVzzISa2ZU4WjRk6o0ohzhU+UzQ3zjkv4G/o5DJp4oNhV5eaVUQ3kRPCocCjYGKKOMSk19ow9kAJiIztLhxgnhelPx0ftmzk5A3uuoyIMTnV/m6jOiMHUtGIwfv5Yk+p7grLDQlT7jjHulPrTJPUJJ0oP+Bnufe74rV0xc1Cn7625Xx36QQPPS7Nf4MNlTK5qnwIDAQAB",
+   "manifest_version": 3,
+   "name": "GitHub加速",
+   "options_page": "options/index.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.5.10"
+}

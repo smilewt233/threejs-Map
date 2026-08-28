@@ -1,0 +1,5 @@
+2026/08/27-09:37:34.119 55c4 Creating DB D:\CODE\echarts\sc-datav\demo2-vue\.edge-profile-mobile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/08/27-09:37:34.127 55c4 Reusing MANIFEST D:\CODE\echarts\sc-datav\demo2-vue\.edge-profile-mobile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/08/27-09:39:01.554 6fe4 Level-0 table #5: started
+2026/08/27-09:39:01.562 6fe4 Level-0 table #5: 683284 bytes OK
+2026/08/27-09:39:01.565 6fe4 Delete type=0 #3

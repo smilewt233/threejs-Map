@@ -1,0 +1,1 @@
+u.prototype.isInPage=function n(o){return o===document.body?false:document.body.contains(o)};

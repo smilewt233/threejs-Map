@@ -1,0 +1,1 @@
+moduleFor("@ember/-internals/utils isProxy",class extends AbstractTestCase{["@test basic"](e){let s={};setProxy(s);e.equal(isProxy(s),true);e.equal(isProxy({}),false);e.equal(isProxy(undefined),false);e.equal(isProxy(null),false)}});

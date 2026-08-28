@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1000,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [
+                {
+                    "header": "Cookie",
+                    "operation": "remove"
+                }
+            ]
+        },
+        "condition": {
+            "domainType": "firstParty",
+            "urlFilter": "https://passport.bilibili.com/login?bind=1",
+            "resourceTypes": ["xmlhttprequest"]
+        }
+    }
+]

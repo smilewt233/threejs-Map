@@ -1,0 +1,1 @@
+moduleForComponent("foo/bar-baz","helper:foo/bar-baz",{integration:true});test("it renders",function(t){this.set("inputValue","1234");this.render(hbs`{{foo/bar-baz this.inputValue}}`);t.strictEqual(this.$().text().trim(),"1234")});

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbrowser_extension=globalThis.webpackChunkbrowser_extension||[]).push([[824],{68483:(e,s,n)=>{n.r(s),n.d(s,{allPathsLoader:()=>t});const t=async(e,s)=>{const{getIconPaths:t}=await n.e(860).then(n.bind(n,14650));return t(e,s)}}}]);
